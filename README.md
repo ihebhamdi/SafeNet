@@ -1,8 +1,7 @@
 # SafeNet
-SOAR solution for SOC:
-- Objective
-Configuring a SOAR (Security Orchestration, Automation, and Response) solution for an SOC
-- Goals:
+SOAR solution for SOC: Configuring a SOAR (Security Orchestration, Automation, and Response) solution for an SOC
+
+
 
 - Deployment and administration of an IT infrastructure
 Web server: ApacheWS
