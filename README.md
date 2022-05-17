@@ -2,7 +2,7 @@
 SOAR solution for SOC:
 - Objective
 Configuring a SOAR (Security Orchestration, Automation, and Response) solution for an SOC
--- Goals:
+- Goals:
 
 - Deployment and administration of an IT infrastructure
 Web server: ApacheWS
