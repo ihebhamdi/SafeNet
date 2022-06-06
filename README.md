@@ -13,7 +13,7 @@ Mail server: Postfix/Dovecot
 
 - Implementation of security mechanisms at the service and network layers:
 Malware analysis (ClamAV)
-IDS/IPS (Meerkat)
+IDS/IPS (Suricata)
 Honeynets (Tpot)
 Firewalls (pfSense)
 VPN (Open VPN)
